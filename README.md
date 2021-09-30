@@ -1,1 +1,1 @@
-# js-shorthand
+# Problem Solving with JS
